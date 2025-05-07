@@ -55,6 +55,10 @@ Google의 개인정보처리방침은 [여기](https://policies.google.com/priva
 
 본 방침은 법령, 정책 또는 서비스 변경에 따라 변경될 수 있으며, 변경 시 본 앱 또는 Google Play를 통해 공지합니다.
 
+## 기타
+
+[서비스 이용약관 보기](https://devhive0520.github.io/prnote-privacy-policy/terms-of-service)
+
 ## 문의처
 
 본 앱 관련 문의사항은 아래 이메일을 통해 접수하실 수 있습니다.
